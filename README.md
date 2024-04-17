@@ -2,20 +2,23 @@ Hi 👋 My name is Shilov Ilia
 ============================
 Python developer
 ----------------
-- A neurologist with experience in the medical field.
-- I retrained as a Python developer and have software development skills.
-- I am a fast learner, able to adapt quickly to new tasks and technologies.
-- Excellent communication skills, I easily find a common language with colleagues and clients.
-- Responsible and meticulous in my work, I strive for high quality and results.
-- I have a passion for developing medical software and a desire to apply my skills in this field.
+- I am currently finishing my training as a Python developer at the Hexlet online school.
+- I am a quick learner and able to adapt to new tasks and technologies.
+- I have good communication skills and easily find a common language with colleagues and clients.
+- Responsible and attentive in my work, I strive for high quality and results.
+- I would like to develop medical software to facilitate the work of doctors
+  I believe that my experience as a practicing doctor will be a good basis for this.
+  According to the first education, a neurologist and a physical therapist (physical and rehabilitation medicine)
+  with experience in both inpatient and outpatient settings.
 ----------------
-- Врач-невролог, врач-ФРМ с опытом работы как в стационаре, так и на амбулаторном этапе.
-- Переучился на Python-разработчика в онлайн-школе Hexlet.
-- Быстро обучаем, способен быстро адаптироваться к новым задачам и технологиям.
-- Отличные коммуникативные навыки, легко нахожу общий язык с коллегами и клиентами.
-- Ответственный и дотошный в работе, стремлюсь к высокому качеству и результату.
-- Имею страсть к разработке медицинского софта и стремление применить мои навыки в этой области.
+- На данный момент заканчиваю обучение на Python-разработчика в онлайн-школе Hexlet.
+- Быстро обучаем, способен адаптироваться к новым задачам и технологиям.
+- Обладаю хорошими коммуникативными навыками, легко нахожу общий язык с коллегами и клиентами.
+- Ответственный и внимательный в работе, стремлюсь к высокому качеству и результату.
+- Хотел бы заниматься разработкой медицинского софта для облегчения работы врачей
   Считаю что, мой опыт работы практикующего врача станет хорошей основой для этого.
+  По первому образованию врач-невролог и врач-ФРМ (физической и реабилитационной медицины)
+  с опытом работы как в стационаре, так и на амбулаторном этапе.
 ----------------
 *   🌍  I'm based in Russia, Perm
 *   ✉️  You can contact me at [shilov.spike2250@yandex.ru](mailto:shilov.spike2250@yandex.ru)
