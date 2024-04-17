@@ -9,7 +9,7 @@ Python developer
 - Responsible and meticulous in my work, I strive for high quality and results.
 - I have a passion for developing medical software and a desire to apply my skills in this field.
 ----------------
-- Врач-невролог с опытом работы в медицинской сфере.
+- Врач-невролог, врач-ФРМ с опытом работы как в стационаре, так и на амбулаторном этапе.
 - Переучился на Python-разработчика в онлайн-школе Hexlet.
 - Быстро обучаем, способен быстро адаптироваться к новым задачам и технологиям.
 - Отличные коммуникативные навыки, легко нахожу общий язык с коллегами и клиентами.
