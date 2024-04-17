@@ -19,7 +19,7 @@ Python developer
 ----------------
 *   🌍  I'm based in Russia, Perm
 *   ✉️  You can contact me at [shilov.spike2250@yandex.ru](mailto:shilov.spike2250@yandex.ru)
-*   🧠  I'm learning FastAPI, PyQt
+*   🧠  I'm learning FastAPI, PyQt6
 ----------------
 ## Skills 
 <p align="left">
