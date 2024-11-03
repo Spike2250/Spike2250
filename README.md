@@ -3,6 +3,7 @@ Hi 👋 My name is Shilov Ilia
 Python developer
 ----------------
 - Completed training as a Python developer at the Hexlet online school.
+- I am studying at THE FOUNDER for a neural network developer.
 - I am a quick learner and able to adapt to new tasks and technologies.
 - I have good communication skills and easily find a common language with colleagues and clients.
 - Responsible and attentive in my work, I strive for high quality and results.
@@ -12,6 +13,7 @@ Python developer
   with experience in both inpatient and outpatient settings.
 ----------------
 - Прошел обучение на Python-разработчика в онлайн-школе Hexlet.
+- Прохожу обучение в THE FOUNDER на разработчика нейросетей.
 - Быстро обучаем, способен адаптироваться к новым задачам и технологиям.
 - Обладаю хорошими коммуникативными навыками, легко нахожу общий язык с коллегами и клиентами.
 - Ответственный и внимательный в работе, стремлюсь к высокому качеству и результату.
@@ -35,7 +37,14 @@ Python developer
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
   <a href="https://pypi.org/project/PyQt6/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg" width="36" height="36" alt="PyQt6" /></a>
 </p>
-                    
+----------------
+## Projects
+- <a href="https://github.com/Spike2250/python-project-49">**Игры разума**</a> - набор из 5 консольных игр, основанные на простеньких математических задачах. Задача каждой игры задать пользователю несколько вопросов. После трех правильных ответов считается, что игра пройдена.
+- <a href="https://github.com/Spike2250/python-project-50">**Вычислитель отличий**</a> - консольное приложение по вычислению отличий между двумя объектами (json, yml), при написании которого были использованы рекурсивные алгоритмы по обработке древовидных структур данных.
+- <a href="https://github.com/Spike2250/python-project-83">**Анализатор страниц**</a> - Flask-приложение для проверки сайтов на SEO-пригодность с реализацией базы данных на PostgreSQL.
+- <a href="https://github.com/Spike2250/python-project-52">**Менеджер задач**</a> - Django-приложение для планирования задач, с авторизацией.
+
+----------------
 ### Socials
 <p align="left">
 <a href="https://www.github.com/Spike2250" target="_blank" rel="noreferrer">
