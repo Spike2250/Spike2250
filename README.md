@@ -36,6 +36,7 @@ Python developer
 - [ML-проект](https://github.com/Spike2250/ML-project-Detecting-Parkinson-Disease) для обнаружения Болезни Паркинсона.
 - [RAG-система](https://github.com/Spike2250/RAG_LlamaIndex_Saiga) с использованием русскоязычной LLM (saiga_llama3_8b_gguf), векторной базы данных, способную отвечать на вопросы по теме “Клинические рекомендации по лечению ишемического инсульта и ТИА”.
 - [Telegram-бот](https://github.com/Spike2250/Quiz_bot_ydb) (aiogram) для игры в “Квиз”, со случайной выборкой вопросов, зарабатыванием очков и таблицей рекордов. С использованием Yandex.Cloud (API Gateway, Cloud Function, YDB, Object Storage).
+- [BERT-классификатор](https://github.com/Spike2250/BERT_classification) обученный на датасете с произведениями русской литературы.
 ----------------
 ## Skills 
 <p align="left">
