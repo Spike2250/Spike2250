@@ -37,6 +37,7 @@ Python developer
 - [RAG-система](https://github.com/Spike2250/RAG_LlamaIndex_Saiga) с использованием русскоязычной LLM (saiga_llama3_8b_gguf), векторной базы данных, способную отвечать на вопросы по теме “Клинические рекомендации по лечению ишемического инсульта и ТИА”.
 - [Telegram-бот](https://github.com/Spike2250/Quiz_bot_ydb) (aiogram) для игры в “Квиз”, со случайной выборкой вопросов, зарабатыванием очков и таблицей рекордов. С использованием Yandex.Cloud (API Gateway, Cloud Function, YDB, Object Storage).
 - [BERT-классификатор](https://github.com/Spike2250/BERT_classification) обученный на датасете с произведениями русской литературы.
+- [Simple_RAG](https://github.com/Spike2250/Simple_RAG) с использованием OpenRouter (LLM) и Together.AI (embed_model). На основе парсинга url создает RAG (AutoMergingRetriver) по индексированным данным Web-страницы.
 ----------------
 ## Skills 
 <p align="left">
