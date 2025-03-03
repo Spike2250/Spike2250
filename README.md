@@ -7,7 +7,7 @@ Python developer
 - I am a quick learner and able to adapt to new tasks and technologies.
 - I have good communication skills and easily find a common language with colleagues and clients.
 - Responsible and attentive in my work, I strive for high quality and results.
-- I would like to develop medical software to facilitate the work of doctors
+- I would like to develop medical software to facilitate the work of doctors.
   I believe that my experience as a practicing doctor will be a good basis for this.
   According to the first education, a neurologist and a physical therapist (physical and rehabilitation medicine)
   with experience in both inpatient and outpatient settings.
@@ -17,7 +17,7 @@ Python developer
 - Быстро обучаем, способен адаптироваться к новым задачам и технологиям.
 - Обладаю хорошими коммуникативными навыками, легко нахожу общий язык с коллегами и клиентами.
 - Ответственный и внимательный в работе, стремлюсь к высокому качеству и результату.
-- Хотел бы заниматься разработкой медицинского софта для облегчения работы врачей
+- Хотел бы заниматься разработкой медицинского софта для облегчения работы врачей.
   Считаю что, мой опыт работы практикующего врача станет хорошей основой для этого.
   По первому образованию врач-невролог и врач-ФРМ (физической и реабилитационной медицины)
   с опытом работы как в стационаре, так и на амбулаторном этапе.
