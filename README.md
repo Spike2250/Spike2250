@@ -3,7 +3,7 @@ Hi 👋 My name is _**Shilov Ilia**_
 Python developer
 ----------------
 - Completed training as a Python developer at the Hexlet online school.
-- I am studying at THE FOUNDER for a neural network developer.
+- Completed training as a neural network developer at THE FOUNDER online school.
 - I am a quick learner and able to adapt to new tasks and technologies.
 - I have good communication skills and easily find a common language with colleagues and clients.
 - Responsible and attentive in my work, I strive for high quality and results.
@@ -13,7 +13,7 @@ Python developer
   with experience in both inpatient and outpatient settings.
 ----------------
 - Прошел обучение на Python-разработчика в онлайн-школе Hexlet.
-- Прохожу обучение в THE FOUNDER на разработчика нейросетей.
+- Прошел обучение в THE FOUNDER на разработчика нейросетей.
 - Быстро обучаем, способен адаптироваться к новым задачам и технологиям.
 - Обладаю хорошими коммуникативными навыками, легко нахожу общий язык с коллегами и клиентами.
 - Ответственный и внимательный в работе, стремлюсь к высокому качеству и результату.
