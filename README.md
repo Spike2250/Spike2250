@@ -62,8 +62,6 @@ Python developer, ML-engineer
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/d/d7/20231226153634%21SQLAlchemy.svg" width="36" height="36" alt="SQLAlchemy" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="36" height="36" alt="FastAPI" /></a>
-  <a href="https://aiogram.dev/" target="_blank" rel="noreferrer"><img src="https://aiogram.dev/assets/images/aiogram-logo.svg" width="36" height="36" alt="aiogram" /></a>
-  <a href="https://pypi.org/project/PyQt6/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg" width="36" height="36" alt="PyQt6" /></a>
 </p>
 
 ### ML and neural network
@@ -73,6 +71,12 @@ Python developer, ML-engineer
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="Tensorflow" /></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="36" height="36" alt="PyTorch" /></a>
   <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://docs.llamaindex.ai/en/v0.10.23/_static/assets/LlamaSquareBlack.svg" width="36" height="36" alt="LlamaIndex" /></a>
+</p>
+
+### Other
+<p align="left">
+  <a href="https://aiogram.dev/" target="_blank" rel="noreferrer"><img src="https://aiogram.dev/assets/images/aiogram-logo.svg" width="36" height="36" alt="aiogram" /></a>
+  <a href="https://pypi.org/project/PyQt6/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg" width="36" height="36" alt="PyQt6" /></a>
   <a href="https://openrouter.ai/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://files.buildwithfern.com/openrouter.docs.buildwithfern.com/docs/2025-04-03T04:35:19.287Z/content/assets/logo-white.svg" />
