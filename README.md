@@ -84,6 +84,7 @@ Python developer, ML-engineer
       <img src="https://files.buildwithfern.com/openrouter.docs.buildwithfern.com/docs/2025-04-03T04:35:19.287Z/content/assets/logo.svg" width="120" height="32" />
     </picture>
   </a>
+  <a href="https://yandex.cloud/ru/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20230206113551%21Cloud_icon_128x128px.svg" width="36" height="36" alt="yandexcloud" /></a>
 </p>
 
 ## Socials
