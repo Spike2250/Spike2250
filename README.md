@@ -14,7 +14,7 @@ Python developer, ML-engineer
   with experience in both inpatient and outpatient settings.
 ----------------
 - Прошел обучение на [Python-разработчика](https://storage.yandexcloud.net/spike2250-docs/Hexlet_Shilov_IS_rus.jpg) в онлайн-школе [Хекслет](https://ru.hexlet.io/).
-- Прошел обучение в [THE FOUNDER](https://dnk.the-founder.ru/) на [разработчика нейросетей](https://storage.yandexcloud.net/spike2250-docs/Diploma_of_professional_retraining_Shilov_IS.pdf).
+- Прошел профессиональную переподготовку в [THE FOUNDER](https://dnk.the-founder.ru/) на [разработчика нейросетей](https://storage.yandexcloud.net/spike2250-docs/Diploma_of_professional_retraining_Shilov_IS.pdf).
 - Прошел [стажировку](https://storage.yandexcloud.net/spike2250-docs/Fittin_gratitude_Shilov_IS.pdf), в рамках учебной программы, в компании Fittin.
 - Быстро обучаем, способен адаптироваться к новым задачам и технологиям.
 - Обладаю хорошими коммуникативными навыками, легко нахожу общий язык с коллегами и клиентами.
