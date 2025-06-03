@@ -40,6 +40,16 @@ Python developer, ML-engineer
 - [Telegram-бот](https://github.com/Spike2250/Quiz_bot_ydb) (aiogram) для игры в “Квиз”, со случайной выборкой вопросов, зарабатыванием очков и таблицей рекордов. С использованием Yandex.Cloud (API Gateway, Cloud Function, YDB, Object Storage).
 - [BERT-классификатор](https://github.com/Spike2250/BERT_classification) обученный на датасете с произведениями русской литературы.
 - [Simple_RAG](https://github.com/Spike2250/Simple_RAG) с использованием OpenRouter (LLM) и Together.AI (embed_model). На основе парсинга url создает RAG (AutoMergingRetriver) по индексированным данным Web-страницы.
+### Test tasks
+- [3 test tasks](https://github.com/Spike2250/test_tasks_tetrika) - на вакансию ["Backend-Developer Python (junior)"](https://perm.hh.ru/vacancy/120575970?hhtmFrom=vacancy_search_list) в "Онлайн-школа Тетрика".
+  - Тексты тестовых заданий:
+    - [Общие сведения](https://github.com/Spike2250/test_tasks_tetrika/blob/master/Task.md)
+    - [Задание № 1](https://github.com/Spike2250/test_tasks_tetrika/blob/master/tasks/task_1/task.md)
+    - [Задание № 2](https://github.com/Spike2250/test_tasks_tetrika/blob/master/tasks/task_2/task.md)
+    - [Задание № 3](https://github.com/Spike2250/test_tasks_tetrika/blob/master/tasks/task_3/task.md)
+- [Weather App](https://github.com/Spike2250/test_task_O-Complex) - на вакансию ["Junior Python Разработчик"](https://perm.hh.ru/vacancy/120908042) в "О-Комплекс".
+  - Django-приложение для прогнозов погоды на ближайшее время.
+  - [Текст](https://o-complex.notion.site/Python-Developer-d8c1a8a27f48457ea6cc63624909e1f5) тестового задания.
 ----------------
 ## Skills
 ### Base
